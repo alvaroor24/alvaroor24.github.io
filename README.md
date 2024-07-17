@@ -1,7 +1,7 @@
 
 # Portafolio de Álvaro Ordóñez Romero
 
-¡Bienvenido a mi portafolio! Aquí encontrarás una colección de mis proyectos más destacados, mis habilidades y un poco sobre mí. Este portafolio está diseñado para mostrar mi trabajo y experiencia en [tu área de especialización, por ejemplo, desarrollo de software, diseño gráfico, etc.].
+¡Bienvenido a mi portafolio! Aquí encontrarás una colección de mis proyectos más destacados, mis habilidades y un poco sobre mí. Este portafolio está diseñado para mostrar mi trabajo y experiencia en la ingeniería del software.
 
 ## Sobre mí
 
